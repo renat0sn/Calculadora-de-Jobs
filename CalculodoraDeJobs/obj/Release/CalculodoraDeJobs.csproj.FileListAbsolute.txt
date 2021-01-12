@@ -1,0 +1,14 @@
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\CalculodoraDeJobs.csprojAssemblyReference.cache
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\CalculodoraDeJobs.Form1.resources
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\CalculodoraDeJobs.Properties.Resources.resources
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\CalculodoraDeJobs.csproj.GenerateResource.cache
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\CalculodoraDeJobs.csproj.CoreCompileInputs.cache
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\bin\Release\Calculodora De Jobs.exe.config
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\bin\Release\Calculodora De Jobs.exe.manifest
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\bin\Release\Calculodora De Jobs.application
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\bin\Release\Calculodora De Jobs.exe
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\bin\Release\Calculodora De Jobs.pdb
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\Calculodora De Jobs.exe.manifest
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\Calculodora De Jobs.application
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\Calculodora De Jobs.exe
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Release\Calculodora De Jobs.pdb

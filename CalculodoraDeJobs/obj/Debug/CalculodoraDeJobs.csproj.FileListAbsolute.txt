@@ -1,0 +1,10 @@
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Debug\CalculodoraDeJobs.Form1.resources
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Debug\CalculodoraDeJobs.Properties.Resources.resources
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Debug\CalculodoraDeJobs.csproj.GenerateResource.cache
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Debug\CalculodoraDeJobs.csproj.CoreCompileInputs.cache
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\bin\Debug\CalculodoraDeJobs.exe.config
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\bin\Debug\CalculodoraDeJobs.exe
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\bin\Debug\CalculodoraDeJobs.pdb
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Debug\CalculodoraDeJobs.exe
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Debug\CalculodoraDeJobs.pdb
+C:\Users\Renato\source\repos\CalculodoraDeJobs\CalculodoraDeJobs\obj\Debug\CalculodoraDeJobs.csprojAssemblyReference.cache
